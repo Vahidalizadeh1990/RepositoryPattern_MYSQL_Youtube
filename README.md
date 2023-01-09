@@ -7,7 +7,7 @@ This is a complete article that you can find inside the Medium.com or even watch
 
 ## Medium and Youtube link 
 ### Medium:
-
+https://medium.com/@vahidalizadeh1990/crud-operation-by-repository-pattern-using-net-6-ef-core-sql-server-mysql-mongodb-part-2-25532829b79d
 
 ### Youtube:
-
+https://www.youtube.com/watch?v=2SKocB_ti7w&t=6s
